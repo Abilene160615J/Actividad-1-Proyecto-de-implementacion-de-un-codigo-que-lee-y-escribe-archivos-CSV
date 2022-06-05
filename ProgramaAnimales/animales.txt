@@ -1,0 +1,4 @@
+Nombre,NombreCientifico,Especie,Edad,TipodeAlimentacion
+Canis Lopus,Canis Lopus,Mamiferos,23,Carnivoros
+Canis Lopus,Canis Lopus,Mamiferos,23,Carnivoros
+Oso ,Ursidae,Mamiferos,30,Omnivoros

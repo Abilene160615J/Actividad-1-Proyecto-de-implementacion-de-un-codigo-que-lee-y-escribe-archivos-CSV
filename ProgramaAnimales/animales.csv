@@ -1,0 +1,10 @@
+Nombre,NombreCientifico,Especie,Edad,TipodeAlimentacion
+Perro,Canis lupus,Mamiferos,11,Carnivoros
+Gato,Felis catus,Mamiferos,18,Carnivoros
+Jirafa,Giraffidae,Mamiferos,10,Herbivoros
+Leopardo,Panthera Leo,Mamiferos,6,Carnivoros
+Tigre,Panthera tigris,Mamiferos,9,Carnivoros
+Caballo,Equuscaballus,Mamiferos,23,Herbivoros
+Oso,Ursidae,Mamiferos,23,Omnivoros
+Lobo,Canis Lopus,Mamiferos,23,Carnivoros
+Conejo,Leoporidae,Mamiferos,4,Herbivoros
